@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220878119768",
+    "project_id": "task-e-commerce-f2dee",
+    "storage_bucket": "task-e-commerce-f2dee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220878119768:android:0aa9e71898e5279296fb2d",
+        "android_client_info": {
+          "package_name": "com.example.task_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2fUtoNqE5UXhsIhTP54fL8s19wYArYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
